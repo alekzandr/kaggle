@@ -8,7 +8,7 @@ This Kaggle compeition sets out to answer when an earthquake will happen based o
 <ol>
   <li>2.871</li>
   <li>1.653</li>
-  <li>1.534</li>
+  <li>1.534 - Kernel Version 13</li>
 </ol>
   
 <h3>Notes</h3>
