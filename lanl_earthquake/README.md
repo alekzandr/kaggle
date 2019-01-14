@@ -12,3 +12,12 @@ This Kaggle compeition sets out to answer when an earthquake will happen based o
   
 <h3>Notes</h3>
 My current model uses a single LightGBM model. Some top public kernels use RNNs, Support Vector Regressors, and CatBoosting or an ensemble of these. This is worth exploring.
+
+<h3>References</h3>
+Public kernels worth looking into:
+
+<ul>
+  <li><a href="https://www.kaggle.com/jazivxt/aftershock">Aftershock</a> by jazivxt</li>
+  <li><a href="https://www.kaggle.com/mayer79/rnn-starter">RNN starter</a> by Michael Mayer</li>
+  <li><a href="https://www.kaggle.com/artgor/earthquakes-fe-more-features-and-samples">Earthquakes FE. More features and samples</a> by Andrew Lukyanenko</li>
+</ul>
