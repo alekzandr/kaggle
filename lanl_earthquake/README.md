@@ -12,7 +12,11 @@ This Kaggle compeition sets out to answer when an earthquake will happen based o
 </ol>
   
 <h3>Notes</h3>
-My current model uses a single LightGBM model. Some top public kernels use RNNs, Support Vector Regressors, and CatBoosting or an ensemble of these. This is worth exploring.
+My current model uses a single LightGBM model. Some top public kernels use RNNs, Support Vector Regressors, and CatBoosting or an ensemble of these. This is worth exploring. //1-14-2019//
+
+Implemented an SVR. Cross Validation MAE readch 1.3.
+
+
 
 <h3>References</h3>
 Public kernels worth looking into:
