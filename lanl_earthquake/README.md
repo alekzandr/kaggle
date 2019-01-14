@@ -14,7 +14,7 @@ This Kaggle compeition sets out to answer when an earthquake will happen based o
 <h3>Notes</h3>
 My current model uses a single LightGBM model. Some top public kernels use RNNs, Support Vector Regressors, and CatBoosting or an ensemble of these. This is worth exploring. //1-14-2019//
 
-Implemented an SVR. Cross Validation MAE readch 1.3.
+Implemented an SVR model. Cross Validation MAE on validation set reached 1.3782. The Version 13 LightGBM model had a CV MAE of 1.4526 on the validation set.
 
 
 
