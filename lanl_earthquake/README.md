@@ -23,6 +23,8 @@ Calculated score is based on the Mean Absolute Error
 
 - Ensemble method with SVR and LightGBM scored 1.632. This better than the single SVR model, but it is believed the SVR had a detrimental affect to the recorded score of the single LightGBM model. A new public kernel that score higher than my model shows that others have adapted rolling means into their feature engineering as well. New kernel added to references below.//1-15-2019//
 
+- Added new features that find the last calculated simple and exponential weighted moving averages for 3, 5, 10, 50, and 100 sized windows. The LightGBM model, with same parameters, received an MAE score of 1.4556 on the validation data. Best model, Version 13, received an MAE score of 1.4526.
+
 
 
 <h3>References</h3>
