@@ -25,6 +25,8 @@ Calculated score is based on the Mean Absolute Error
 
 - Added new features that find the last calculated simple and exponential weighted moving averages for 3, 5, 10, 50, and 100 sized windows. The LightGBM model, with same parameters, received an MAE score of 1.4556 on the validation data. Best model, Version 13, received an MAE score of 1.4526. //1-15-2019//
 
+- Added new features that calculate the average change among the simple and exponential weighted moving averages for 3, 5, 10, 50, and 100 sized windows. The LightGBM model, with same parameters, received an MAE score of 1.4556 on the validation data. Best model, Version 13, received an MAE score of 1.4526. //1-15-2019// 
+
 
 
 <h3>References</h3>
