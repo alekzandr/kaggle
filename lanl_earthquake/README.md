@@ -5,6 +5,7 @@ This Kaggle compeition sets out to answer when an earthquake will happen based o
 <a href="https://www.kaggle.com/c/LANL-Earthquake-Prediction">Link to Competition</a>
 
 <h3>Submission History</h3>
+Calculated score is based on the Mean Absolute Error
 <ol>
   <li>2.871</li>
   <li>1.653</li>
